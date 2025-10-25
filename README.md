@@ -43,24 +43,13 @@ Contenido principal:
 
 No hay dependencias externas ni compilación necesaria.
 
-## Cómo ejecutar / Previsualizar (macOS / zsh)
+## 🚀 Características
 
-Opciones rápidas:
-
-- Abrir en el navegador (doble clic):
-  - En Finder, doble clic en `index.html` o arrastra `index.html` a tu navegador.
-
-- Servidor HTTP simple (recomendado para probar rutas relativas y fetch):
-
-```zsh
-# desde la raíz del proyecto
-cd /Volumes/SSD_EXTERNO/tripleten/2025/portafolio
-python3 -m http.server 8000
-# luego abrir http://localhost:8000 en tu navegador
-```
-
-- Usar la extensión Live Server de VS Code:
-  - Instala Live Server y haz click en "Go Live" en la esquina inferior derecha.
+- Diseño responsive adaptable a diferentes dispositivos.  
+- Estructura clara y moderna.  
+- Animaciones y efectos suaves.  
+- Código limpio y organizado.  
+- Fácil de mantener y actualizar.
 
 
 ## Licencia
