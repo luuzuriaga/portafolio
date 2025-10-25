@@ -58,5 +58,5 @@ Consulta el archivo LICENSE para más detalles.
 
 🧑‍💻 Autor
 
-Desarrollado por Tu Nombre
+Desarrollado por Lucero Uzuriaga
 💌 Contáctame para colaborar en proyectos web.
