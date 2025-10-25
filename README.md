@@ -30,6 +30,13 @@ Contenido principal:
 
 ## Tecnologías
 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 - HTML5
 - CSS3
 - JavaScript (vanilla)
@@ -55,29 +62,12 @@ python3 -m http.server 8000
 - Usar la extensión Live Server de VS Code:
   - Instala Live Server y haz click en "Go Live" en la esquina inferior derecha.
 
-## Notas para desarrollo
-
-- Cambios en `javaScript.js` y `css/styles.css` se reflejan al recargar la página.
-- Si añades imágenes, colócalas en la carpeta `img/` y usa rutas relativas.
-
-### Buenas prácticas
-- Mantén los scripts separados del HTML (ya está en `javaScript.js`).
-- Para nuevas funcionalidades, documenta en comentarios y agrega tests ligeros si corresponde.
-
-## Contribuciones
-
-Este proyecto es personal; si quieres proponer cambios, crea un fork y un pull request con una descripción clara de la modificación.
 
 ## Licencia
+Consulta el archivo LICENSE para más detalles.
 
-Si quieres aplicar una licencia oficial, añade un archivo `LICENSE`. Por defecto, este repositorio no incluye una licencia explícita.
 
-## Contacto
+🧑‍💻 Autor
 
-Autor: luuzuriaga
-
-Si quieres contactarme, añade tu email o perfil en la sección `Contacto` del repositorio o abre un issue.
-
----
-
-Archivo generado automáticamente: `README.md` — creado para ayudar a previsualizar y contribuir al proyecto.
+Desarrollado por Tu Nombre
+💌 Contáctame para colaborar en proyectos web.
